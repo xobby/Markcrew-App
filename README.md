@@ -26,7 +26,7 @@ Date: March 10, 2024
 No Usage Without Permission
 You are strictly prohibited from using, copying, modifying, or distributing the source code of this app without my explicit permission.
 Requesting Permission
-To request permission to use the source code, send an email to [email protected] specifying:
+To request permission to use the source code, send a message on discord specifying:
  * Your username
  * Your email address
  * Your reason for wanting to use the source code
@@ -38,4 +38,4 @@ If you are granted permission to use the source code, you will be required to co
 License Violation
 Any violation of this license will be subject to legal action.
 Contact
-For any questions or clarification, please contact me at [email protected]
+For any questions or clarification, please contact me on discord: @tinyhd
