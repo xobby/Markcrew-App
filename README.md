@@ -16,7 +16,6 @@ Go in Releases and download the zip.
 discord.gg: @tinyhd
 Telegram: xobbymc
 
-# ----------------------------
 
 # LICENSE
 
